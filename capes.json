@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "capes": {
+    "dev": {
+      "name": "Dev Cape",
+      "texture": "capes/dev_cape.png"
+    },
+    "gold": {
+      "name": "Gold Cape",
+      "texture": "capes/gold_cape.png"
+    },
+    "og": {
+      "name": "OG Cape",
+      "texture": "capes/og_cape.png"
+    },
+    "premium": {
+      "name": "Premium Cape",
+      "texture": "capes/premium_cape.png"
+    },
+    "tester": {
+      "name": "Tester Cape",
+      "texture": "capes/tester_cape.png"
+    },
+    "expanding": {
+      "name": "Expanding Cape",
+      "texture": "capes/expanding_cape.png"
+    }
+  },
+  "players": {
+    "d05249e99fc14728b99ec360b51524bc": {
+      "username": "Deyronn",
+      "cape": "dev",
+      "offlineUuid": "811d8a9a-d9d3-3744-81c2-cc8897c917da"
+    },
+    "811d8a9a-d9d3-3744-81c2-cc8897c917da": {
+      "username": "Deyronn",
+      "cape": "dev"
+    },
+    "5117b9df-e39a-3057-9671-b329e347f3f5": {
+      "username": "Skibiddy1",
+      "cape": "tester"
+    }
+  }
+}
